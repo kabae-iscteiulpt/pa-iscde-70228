@@ -41,7 +41,7 @@ public class JavaEditorServicesImpl implements JavaEditorServices {
 
 	private File workspaceRoot;
 	
-	JavaEditorServicesImpl(File workspaceRoot) {
+	public JavaEditorServicesImpl(File workspaceRoot) {
 		this.workspaceRoot = workspaceRoot;
 	}
 	
