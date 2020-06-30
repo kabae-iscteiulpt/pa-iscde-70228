@@ -36,6 +36,10 @@ public class Task {
 		this.setInitialDate(initialDate);
 		this.setFinalDate(finalDate);
 	}
+	
+	public Task(String description) {
+		
+	}
 
 	/**
 	 * @return check
