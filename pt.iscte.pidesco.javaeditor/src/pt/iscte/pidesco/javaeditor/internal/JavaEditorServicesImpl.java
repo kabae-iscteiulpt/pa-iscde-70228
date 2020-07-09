@@ -41,7 +41,11 @@ public class JavaEditorServicesImpl implements JavaEditorServices {
 
 	private File workspaceRoot;
 	
+<<<<<<< HEAD
 	public JavaEditorServicesImpl(File workspaceRoot) {
+=======
+	JavaEditorServicesImpl(File workspaceRoot) {
+>>>>>>> branch 'master' of https://github.com/kabae-iscteiulpt/pa-iscde-70228.git
 		this.workspaceRoot = workspaceRoot;
 	}
 	

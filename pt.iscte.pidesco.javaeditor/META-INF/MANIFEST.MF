@@ -18,7 +18,11 @@ Require-Bundle: org.eclipse.core.runtime,
 Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Automatic-Module-Name: pt.iscte.pidesco.javaeditor
 Bundle-Vendor: pt.iscte.dcti
+<<<<<<< HEAD
 Export-Package: pt.iscte.pidesco.javaeditor.internal,
  pt.iscte.pidesco.javaeditor.service
+=======
+Export-Package: pt.iscte.pidesco.javaeditor.service
+>>>>>>> branch 'master' of https://github.com/kabae-iscteiulpt/pa-iscde-70228.git
 Bundle-Activator: pt.iscte.pidesco.javaeditor.internal.JavaEditorActivator
 Bundle-ActivationPolicy: lazy
