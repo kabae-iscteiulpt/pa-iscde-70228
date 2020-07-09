@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?eclipse version="3.4"?>
 <plugin>
+   <extension-point id="TaskExtensionPoint" name="Task Extension Point" schema="schema/TaskExtensionPoint.exsd"/>
    <extension
          id="task"
          name="My Task"
